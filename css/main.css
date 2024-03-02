@@ -1,0 +1,50 @@
+.hidden {
+    display: none;
+ }
+ 
+.body {
+    background-color: grey;
+}
+
+ .box {
+    background-color: crimson;
+    color: white;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom:10px;
+  }
+
+  .infobox {
+    background-color: crimson;
+    color: white;
+    
+    padding: 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom:10px;
+  }
+
+  #kanit {
+    font-family: "Kanit", sans-serif;
+    line-height: 2;
+}
+
+.text {
+    padding-top: 10xp;
+    padding-bottom: 20px;
+    color: white;
+    text-align: center;
+}
+
+.foottext {
+    padding-top: 10xp;
+    padding-bottom: 20px;
+    color: white;
+    text-align: left;
+}
+
+.space {
+    margin-bottom: 500px;
+}
